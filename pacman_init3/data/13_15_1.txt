@@ -1,0 +1,18 @@
+13 15
+#####ooooo#####
+#ooooooooooooo#
+#o###ooooo###o#
+#o#o#ooooo#o#o#
+#ooo#ooooo#o#o#
+#####ooooo#####
+OoooooooooooooO
+#####ooooo#####
+#ooo#ooooo#ooo#
+#o#o#ooooo#o#o#
+#o###ooooo###o#
+#ooooooooooooo#
+#####ooooo#####
+3 3
+3 11
+9 3
+9 11

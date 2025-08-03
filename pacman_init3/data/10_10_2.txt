@@ -1,0 +1,17 @@
+10 10
+oo#oooo#oo
+oo#oooo#oo
+oo##oo##oo
+ooo#oo#ooo
+oooooooooo
+oooooooooo
+oo#oooo#oo
+oo#oooo#oo
+oo######oo
+oooO##Oooo
+
+0 3
+0 6
+7 3
+7 6
+
